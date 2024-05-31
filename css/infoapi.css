@@ -19,6 +19,9 @@ nav{
     position: absolute;
     padding: 15px 50px;
 }
+.enlace-inicio img{
+    transition: all .5s ease;
+}
 .enlace-inicio img:hover{
 
     
@@ -51,6 +54,7 @@ nav ul li a{
     font-size: 20px;
     text-transform: uppercase;
     border-radius: 3px;
+    transition: all .5s ease;
 }
 
 nav ul li a:hover{
@@ -164,6 +168,7 @@ footer {
     text-align: center;
     line-height: 40px;
     border-radius: 50%;
+    color: white;
     transition: all .5s ease;
 
 
