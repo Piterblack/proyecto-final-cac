@@ -19,6 +19,11 @@ nav{
     position: absolute;
     padding: 15px 50px;
 }
+.enlace-inicio img:hover{
+
+    
+    height:55px;
+}
 .logo{
     height: 50px;
 }
@@ -50,6 +55,7 @@ nav ul li a{
 
 nav ul li a:hover{
     background-color: rgba(0, 0, 255, 0.418);
+    color: #ABC4Ff;
 }
 
 h1{
